@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a3767147db632300ec80fbef29961937" sys_domain="global" table="x_154985_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-15 10:36:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9d6f147db632300ec80fbef299619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_154985_innovate_innovate" name="x_154985_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a3767147db632300ec80fbef29961937</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_154985_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">6b767147db632300ec80fbef299619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-15 10:36:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_154985_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-15 10:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3767147db632300ec80fbef29961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_154985_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_154985_innovate">22fc59c3db232300ec80fbef299619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">22fc59c3db232300ec80fbef299619de</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a3767147db632300ec80fbef29961937</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-15 10:35:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
